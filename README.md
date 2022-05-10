@@ -1,5 +1,5 @@
 <h1>Bem-vindo!</h1>
-### Sobre mim
+<h2>Sobre mim</h2>
 <p>- 🌱 Em aprendizagem Docker</p>
 <p>- 😄 Pronome: ele/dele</p>
 <p>- 👀 Interessado em TypeScript</p>
